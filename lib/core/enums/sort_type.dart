@@ -1,0 +1,4 @@
+enum SortType {
+  eta,
+  minimumOrder,
+}
